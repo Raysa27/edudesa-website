@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EduDesa - Pendidikan Merata, Solusi Bangsa</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background: #1e88e5; color: white; padding: 1rem; text-align: center; }
+    nav { background: #1565c0; padding: 0.5rem; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 2rem; background: white; margin: 1rem; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h2 { color: #1e88e5; }
+    ul { list-style: square; margin-left: 20px; }
+    a.button {
+      display: inline-block;
+      background: #1e88e5;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 1rem;
+    }
+    footer {
+      background: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>EduDesa</h1>
+    <p>Ekosistem Digital Pendidikan dan Pemberdayaan Guru</p>
+  </header>
+  <nav>
+    <a href="#pelatihan-guru">Pelatihan Guru</a>
+    <a href="#modul-anak">Modul Anak</a>
+    <a href="#skill-anak">Skill Anak</a>
+  </nav>
+  <section id="pelatihan-guru">
+    <h2>Pelatihan Skill Guru</h2>
+    <p>Pelatihan daring untuk meningkatkan keterampilan guru muda dan lulusan pendidikan:</p>
+    <ul>
+      <li>Teknologi dalam Pembelajaran: Google Sites, Canva Edu, AI Tools</li>
+      <li>Kreativitas Mengajar: Ice breaking, storytelling, media interaktif</li>
+      <li>Pendidikan Inklusif dan Karakter</li>
+      <li>Manajemen Kelas Digital dan Luring</li>
+      <li>Micro Teaching & Video Practice Submission</li>
+    </ul>
+    <a href="#" class="button">Daftar Sebagai Guru</a>
+  </section>
+  <section id="modul-anak">
+    <h2>Modul Belajar Anak yang Kreatif dan Inovatif</h2>
+    <p>Modul tematik sesuai kurikulum nasional dan berbasis kontekstual lingkungan sekitar:</p>
+    <ul>
+      <li><strong>Modul Sains:</strong> Eksperimen sederhana menggunakan bahan dapur</li>
+      <li><strong>Modul Bahasa:</strong> Dongeng daerah + latihan menulis kreatif</li>
+      <li><strong>Matematika Kontekstual:</strong> Belajar pecahan lewat membagi makanan</li>
+      <li><strong>Proyek Mini:</strong> Membuat poster peduli lingkungan dari kertas bekas</li>
+    </ul>
+    <a href="#" class="button">Unduh Modul Anak</a>
+  </section>
+  <section id="skill-anak">
+    <h2>Modul Pelatihan Skill Anak (Praktis & Kontekstual)</h2>
+    <p>Modul keterampilan hidup yang bisa langsung diterapkan dengan alat sederhana:</p>
+    <ul>
+      <li><strong>Bercocok Tanam Mini:</strong> Tanam kangkung di botol bekas</li>
+      <li><strong>Kreasi Daur Ulang:</strong> Membuat tempat pensil dari botol plastik</li>
+      <li><strong>Literasi Finansial:</strong> Simulasi jual-beli sederhana (pasar mini)</li>
+      <li><strong>Kriya Lokal:</strong> Anyaman dari daun kelapa kering</li>
+      <li><strong>Kebersihan Lingkungan:</strong> Proyek bank sampah kelas</li>
+    </ul>
+    <a href="#" class="button">Unduh Modul Skill</a>
+  </section>
+  <footer>
+    <p>&copy; 2025 EduDesa. Dibuat untuk Solusi Pendidikan Bangsa.</p>
+  </footer>
+</body>
+</html>
